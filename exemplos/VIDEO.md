@@ -1,20 +1,14 @@
 # Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
 
 ## 📒 Descrição
-Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
-
+Esse video tenta mostrar em apenas 1 minuto os beneficios da revolução tecnologica que vivemos e ao mesmo tempo traz um lembrete do alerta que os filmes e jogos de ficção cientifica sempre mostraram: Quando nos misturamos à tecnologia até onde somos humanos? 
+e até onde nos tornamos maquinas? (E não, não estou falando de ciborgues). Esse video foi feito como brincadeira, mas voce já parou para pensar se aquele avatar que voce criou é voce mesmo? Até onde o texto que voce criou é uma mensagem sua ou de uma IA generativa, afinal ela fez a maior parte do seu trabalho para voce ter mais tempo para se ocupar com outras coisas que no final deixam voce novamente sem tempo. Sem tempo para pensar ...
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
 - IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
-- Software **[Adobe Premiere](https://www.adobe.com/products/premiere.html)** para edição de vídeo.
 
 ## 🧐 Processo de Criação
-Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. A montagem e edição foram realizadas no Adobe Premiere para garantir qualidade profissional.
+Foi bem rápido fiz tudo na hora do almoço enquanto comia um x-salada. A praticidade do criador de avatar da D_ID é muito indutiva e clara. Apenas mostrei os parametros do texto que eu precisava criar e ele fez. O avatar foi criado a partir da minha foto do Linkedin e pronto.
 
-## 🚀 Resultados
-O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
+[LINK PARA O VÍDEO AQUI](https://youtube.com/shorts/OJvAxQs9dks?feature=share)
 
-[LINK PARA O VÍDEO AQUI]()
-
-## 💭 Reflexão
-Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
