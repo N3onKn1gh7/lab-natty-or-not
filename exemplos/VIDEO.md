@@ -8,7 +8,7 @@ e até onde nos tornamos maquinas? (E não, não estou falando de ciborgues). Es
 - IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
 
 ## 🧐 Processo de Criação
-Foi bem rápido fiz tudo na hora do almoço enquanto comia um x-salada. A praticidade do criador de avatar da D_ID é muito indutiva e clara. Apenas mostrei os parametros do texto que eu precisava criar e ele fez. O avatar foi criado a partir da minha foto do Linkedin e pronto.
+Foi bem rápido fiz tudo na hora do almoço enquanto comia um x-salada. Para o texto utilizei o nosso amigo chatGPT, apenas mostrei os parametros do texto que eu precisava criar e ele fez. Quanto ao avatar, praticidade da ferramenta de criação da D_ID é muito indutiva e clara, com apenas alguns cliks ja estava pronto. O avatar foi criado a partir da minha foto do Linkedin.
 
 [LINK PARA O VÍDEO AQUI](https://youtube.com/shorts/OJvAxQs9dks?feature=share)
 
