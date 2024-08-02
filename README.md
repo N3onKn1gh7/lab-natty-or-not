@@ -42,9 +42,9 @@ O resultado de cada um dos projetos pode ser vistos nos links abaixo
 
 ### Links do projeto
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [E-BOOK](https://github.com/N3onKn1gh7/lab-natty-or-not/blob/main/exemplos/E-BOOK.md)
+- [Podcast](https://github.com/N3onKn1gh7/lab-natty-or-not/blob/main/exemplos/PODCAST.md)
+- [Vídeo (Avatar Virtual)](https://github.com/N3onKn1gh7/lab-natty-or-not/blob/main/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
