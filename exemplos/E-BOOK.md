@@ -1,20 +1,16 @@
 # A Jornada da IA: Um Passeio pelo Futuro 🌌
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este e-book trata dos beneficios da tecnologia e da responsabilidade que devemos ter ao utiliza-la.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
+- IA Generativa **[Bing Image Creator](https://www.bing.com/images/create?mkt=en-US)** para criar a arte visual do e-book;
 - Ferramenta **Libre Office** para edição.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
-
+Utilizai o ChatGPT para revisar e refinar o texto do livro, o Bing Image Creator me forneceu a imagem central de capa e com a ferramenta Libre Office estilizai melhor a capa e imagem e também formatei todo o conteúdo do livro
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+O e-book apresenta um texto explicativo e atraente sobre como devemos utilizar a IA para nosso benefífcio e cita obras de Grandes autores de ficção científica como Willian Gibson em seu aclamado Neuromancer e George Orwel com o seu sempre atual 1984, o tema principal é mostrar como a a vida "imita" a ficção cientifica nos dias de hoje
+[LINK PARA O E-BOOK AQUI](https://github.com/N3onKn1gh7/lab-natty-or-not/blob/main/Tecno-Humanidade.pdf)
 
-[LINK PARA O E-BOOK AQUI]()
-
-## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
