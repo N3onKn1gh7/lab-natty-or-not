@@ -1,20 +1,21 @@
 # Podcast: Descobrindo IAs Generativas em 5 Minutos 🎙️
 
 ## 📒 Descrição
-Este podcast de 5 minutos oferece um passeio rápido, mas profundo, pelo mundo das IAs Generativas e sua influência na tecnologia moderna.
+Criei esse Podcast com a intenção de mostrar os beneficios que a IA pode trazer para a humanidade, mas também é um alerta, não apenas como utiliza-la, mas sim quando utiliza-la. 
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
 - IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** para clonagem e sintetização de voz;
 - Software **[Descript](https://www.descript.com)** para edição e montagem do podcast.
+- IA Generativa **[Bing Image Creator](https://www.bing.com/images/create?mkt=en-US) **Para criação de imagens
 
 ## 🧐 Processo de Criação
-"ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "ElevenLabs" ajudou a criar uma voz sintética envolvente para a narração, enquanto o "Descript" foi essencial para a edição final, garantindo um fluxo suave e profissional.
-
+Apos escolher o tema abordado, passei os pontos de interesse do texto para o chatGPT criar o conteúdo, em seguida escolhi a voz sintetizada Daniel da Eleven Labs.Passei o aquivo de audio obtido na Even Labs para o Software da Descript que gerou um texto baseado no audio quase que instantanemente. Enquando fui lendo o texto, fui adicionando as imagens que eu ia criando com a ajuda da ferramenta Bing Image Creator que a Microsoft disponibiliza em parceria com a tecnologia Dall-E da OpenAI. todas essas ferramentas são extremamente intuituvas e faceis de usar.  
 ## 🚀 Resultados
-O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
 
-[LINK PARA O PODCAST AQUI]()
+Achei que ficou bem explicativo esse podcast, todas essas ferramentas me ajudaram a fazer algo rápido e claro. Me surpreendi com a facilidade que tive, ainda mais por se tratar do meu primeiro podcast
+
+[LINK PARA O PODCAST AQUI](https://youtu.be/6wU-I7tevng)
 
 ## 💭 Reflexão
-O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
+O projeto destacou a importancia de se manter um equilibrio no uso das IAs, ele da uma mensagem de que devemos usar as IAs generativas como ferramenta e não como muleta para nossos objetivos.
